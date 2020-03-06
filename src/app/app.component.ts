@@ -7,6 +7,7 @@ import { Username } from './form-controls/username';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent implements OnInit {
 
   signupForm: FormGroup;
